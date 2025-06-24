@@ -1,4 +1,4 @@
-![{6DFAE1B6-7819-4D6B-81AF-BE2F86A157A0}](https://github.com/user-attachments/assets/8d83a94b-9dcb-4240-9933-cffcecca0e1c)# ExamPortal-SpringBoot-RESTAPI
+# ExamPortal-SpringBoot-RESTAPI
 A full-stack Exam Portal application built using Spring Boot, Angular, and MySQL.
 
 <-------MySQL Database Tables-------->
